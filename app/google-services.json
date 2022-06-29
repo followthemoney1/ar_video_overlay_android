@@ -1,0 +1,387 @@
+{
+  "project_info": {
+    "project_number": "387738990355",
+    "firebase_url": "https://testproject-afd2f.firebaseio.com",
+    "project_id": "testproject-afd2f",
+    "storage_bucket": "testproject-afd2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387738990355:android:e8bafcfe5cd8af3d",
+        "android_client_info": {
+          "package_name": "com.appisode.currencyconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387738990355-cdj6ugogg4in547pqfv5u5gv88118717.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appisode.currencyconverter",
+            "certificate_hash": "5fbca81c5b92f169b4d16621cd6cc5d04f80f4f7"
+          }
+        },
+        {
+          "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHO366knEYMv-T1DOjhPh9C1Ws0-fIet4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387738990355-agu9r78arba2p168ivaonmbt99fh6r3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ldt.MLKit-ARKit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387738990355:android:589682e96bb1d7c15a4ce6",
+        "android_client_info": {
+          "package_name": "com.example.classifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387738990355-scc0qssget785ft817md9thf60pfigdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.classifier",
+            "certificate_hash": "3bf35adf444d9f03b1b95f664a50c6f7c341e0b8"
+          }
+        },
+        {
+          "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHO366knEYMv-T1DOjhPh9C1Ws0-fIet4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387738990355-agu9r78arba2p168ivaonmbt99fh6r3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ldt.MLKit-ARKit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387738990355:android:58566fc7516a41af5a4ce6",
+        "android_client_info": {
+          "package_name": "com.fortunass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHO366knEYMv-T1DOjhPh9C1Ws0-fIet4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387738990355-agu9r78arba2p168ivaonmbt99fh6r3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ldt.MLKit-ARKit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387738990355:android:3412d86acec01b8e5a4ce6",
+        "android_client_info": {
+          "package_name": "com.leadit.phdeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHO366knEYMv-T1DOjhPh9C1Ws0-fIet4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387738990355-agu9r78arba2p168ivaonmbt99fh6r3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ldt.MLKit-ARKit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387738990355:android:462c6b59dd1eea62",
+        "android_client_info": {
+          "package_name": "com.leadit.team"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHO366knEYMv-T1DOjhPh9C1Ws0-fIet4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387738990355-agu9r78arba2p168ivaonmbt99fh6r3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ldt.MLKit-ARKit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387738990355:android:0f9561c7dade62015a4ce6",
+        "android_client_info": {
+          "package_name": "com.leaditteam.arscaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHO366knEYMv-T1DOjhPh9C1Ws0-fIet4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387738990355-agu9r78arba2p168ivaonmbt99fh6r3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ldt.MLKit-ARKit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387738990355:android:2a03e5cddd88ccf0",
+        "android_client_info": {
+          "package_name": "com.luca_personal_trainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHO366knEYMv-T1DOjhPh9C1Ws0-fIet4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387738990355-agu9r78arba2p168ivaonmbt99fh6r3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ldt.MLKit-ARKit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387738990355:android:4953c57ed98e7b025a4ce6",
+        "android_client_info": {
+          "package_name": "com.matchpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHO366knEYMv-T1DOjhPh9C1Ws0-fIet4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387738990355-agu9r78arba2p168ivaonmbt99fh6r3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ldt.MLKit-ARKit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387738990355:android:332b02919afe67965a4ce6",
+        "android_client_info": {
+          "package_name": "com.sportsforecasts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHO366knEYMv-T1DOjhPh9C1Ws0-fIet4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387738990355-agu9r78arba2p168ivaonmbt99fh6r3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ldt.MLKit-ARKit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387738990355:android:edeeb105a448122f",
+        "android_client_info": {
+          "package_name": "leaditteam.rarare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHO366knEYMv-T1DOjhPh9C1Ws0-fIet4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387738990355-j637v13j5332t8hnrvof3rm5hsbsus6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "387738990355-agu9r78arba2p168ivaonmbt99fh6r3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ldt.MLKit-ARKit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

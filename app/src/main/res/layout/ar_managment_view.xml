@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/arManagmentItems"
+    android:gravity="bottom"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/fullScreen"
+        android:src="@drawable/ic_baseline_fullscreen_24"
+        app:tint="@color/teal_700"
+        android:layout_marginBottom="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/fullScreenText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/teal_700"
+        android:layout_marginLeft="8dp"
+        android:layout_toRightOf="@id/fullScreen"
+        android:layout_alignTop="@id/fullScreen"
+        android:layout_alignBottom="@id/fullScreen"
+        android:gravity="center"
+        android:text="Full Screen" />
+
+
+
+
+</RelativeLayout>
